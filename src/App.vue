@@ -23,7 +23,7 @@
         <ProjectCard
           title="Generador de QRs"
           description="Herramienta de alto rendimiento para generar códigos QR personalizados con configuración avanzada de colores y gradientes."
-          link="https://qr.rianov-projects.com"
+          link="https://rianov-projects.com/qr/"
           :tags="['Vue 3', 'Docker', 'Tailwind']"
           status="Estable"
         />
