@@ -8,4 +8,8 @@ export default defineConfig({
     vue(),
     tailwindcss(),
   ],
+server: {
+    port: 6001,
+    strictPort: true, // Evita que Vite salte a otro puerto si este está ocupado
+  }  
 })
