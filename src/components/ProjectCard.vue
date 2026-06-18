@@ -8,6 +8,7 @@
         v-if="link"
         :href="link"
         target="_blank"
+        rel="noopener noreferrer"
         class="text-slate-500 hover:text-red-500 transition"
       >
         <svg
