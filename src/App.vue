@@ -18,8 +18,8 @@
 
         <div class="max-w-2xl bg-slate-900/40 border border-slate-800 rounded-2xl p-6 text-left md:text-center backdrop-blur-sm">
           <p class="text-slate-300 text-sm leading-relaxed">
-            Bienvenido a mi laboratorio personal de desarrollo. Este espacio está diseñado para conceptualizar, construir y desplegar soluciones de software bajo metodologías ágiles y estándares modernos de arquitectura. Todo el código fuente expuesto aquí es de carácter 
-            <span class="text-red-400 font-semibold">Open-Source</span>, desarrollado con fines experimentales y formativos.
+            Bienvenido a mi laboratorio de desarrollo e ingeniería. Este espacio está diseñado para conceptualizar, construir y desplegar herramientas de utilidad real bajo metodologías ágiles y estándares modernos de arquitectura. Todo el ecosistema es de carácter 
+            <span class="text-red-400 font-semibold">Open-Source</span> y de libre acceso. Mi objetivo es crear soluciones que aporten valor genuino a la comunidad; si alguna de estas aplicaciones facilita tu trabajo o te resulta útil, tienes la posibilidad de respaldar la continuidad de este proyecto mediante un aporte económico voluntario, sin ningún tipo de compromiso.
           </p>
         </div>
       </header>
