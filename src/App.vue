@@ -53,7 +53,7 @@
           <span>Código Abierto bajo Licencia <span class="text-slate-400">MIT</span></span>
           <span>•</span>
           <a 
-            href="https://github.com/tu-usuario-de-github" 
+            href="https://github.com/rianov-projects" 
             target="_blank" 
             rel="noopener noreferrer" 
             class="hover:text-red-400 transition-colors"
