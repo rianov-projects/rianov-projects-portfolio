@@ -36,7 +36,7 @@
       
       <header class="flex flex-col items-center mb-12 text-center pt-8">
         <img
-          src="/logo.svg"
+          src="/rianovProjects_Logo.svg"
           alt="Rianov-Projects Logo"
           class="h-28 mb-4 object-contain"
           onerror="this.style.display = 'none'"
